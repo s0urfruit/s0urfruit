@@ -1,5 +1,4 @@
 <h1 align=center>Hey there! I'm Sourfruit.</h1>
-<br>
 <h2 style="font-weight: normal" align="center">a pikachu that happens to be a software engineer and (in)security researcher. <b>Among other things</b></h2>
 
 
