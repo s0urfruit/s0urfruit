@@ -18,7 +18,7 @@
 ### Regarding my GitHub... 
 I've kind of just decided to ignore its main use case, being a perfect platform to showcase projects/code. In 2022, I deleted even more things from GitHub- including repositories, organisations, etc. Now, almost everything sits on a NAS, and GitHub is just another social profile I sometimes maintain. 
 
-Eventually, I might just upload _parts_ of projects onto GitHub, (e.g) TrackerKit, GPT-4, SourfruitHW, etc.
+Eventually, I might just upload _parts_ of projects onto GitHub, (e.g) Takeout, TrackerKit, GPT-4, SourfruitHW, etc. These projects might also just appear in an organisation.
 
 With that being said, any large/interesting/'I felt like showcasing it' projects will appear on [def-not-hacking-the.net](https://def-not-hacking-the.net) and [*.bysourfruit.com](https://bysourfruit.com)  
 
